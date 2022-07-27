@@ -37,3 +37,6 @@ function draw() {
 
 ## Challenges
 
+- Can you change the colours?
+- Can you change the speed?
+- Can you make the trails on the circle longer or shorter?
