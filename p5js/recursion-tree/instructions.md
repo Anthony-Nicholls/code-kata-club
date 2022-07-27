@@ -47,3 +47,5 @@ function draw() {
 
 ## Challenges
 
+- Can you change the colour of the branches?
+- Can you make the branches thicker?
