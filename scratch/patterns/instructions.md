@@ -1,4 +1,4 @@
-# Barnsley Fern
+# Patterns
 
 ## Instuctions
 
