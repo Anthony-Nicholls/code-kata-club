@@ -1,4 +1,4 @@
-# Crashy birds
+# Crashy bird
 
 Go to https://makecode.microbit.org
 
