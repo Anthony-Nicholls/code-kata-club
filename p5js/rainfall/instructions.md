@@ -79,3 +79,6 @@ function draw() {
 ```
 
 ## Challenges
+
+- Can you change the rain colour?
+- Can you make it look like snow?
